@@ -27,8 +27,8 @@ class Main
  public static void main(String[] args) {
     area a1 = new area();
 
-    System.out.println(a1.area1(2));
-    System.out.println(a1.area1(2,3));
+    System.out.println("area by 1st method- " + a1.area1(2));
+    System.out.println("area by 2st method- " +a1.area1(2,3));
      System.out.println("21CE125 Kaivan Shah");
  }
     
